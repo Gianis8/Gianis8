@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gianis8
 - 👀 I’m interested in ... Full Stack Engineering, 
 - 🌱 I’m currently learning ... AWS and JavaScript Frameworks
-- 💞️ I’m looking to collaborate on ... Anything, I like solving problems
+- 💞️ I’m looking to collaborate on ... Anything, looking to learn new technologies
 - 📫 How to reach me ... ianhaley0@gmail.com
 
 <!---
