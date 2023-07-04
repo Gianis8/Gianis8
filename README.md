@@ -5,7 +5,7 @@
 
 I am a junior fullstack developer 🦾 looking to collaborate and built innovative new technologies and applications 🪃
 
-I am interested in solving challenging problems 🤔 and have a aptitude for
+I am enjoy solving challenging problems 🤔 and am interested in
 - Music Technology  🎵
 - Geography 🇮🇪 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇺🇸
 - Machine Learning
